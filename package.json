@@ -1,0 +1,31 @@
+{
+  "name": "webpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch:sass": "gulp watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sass-lint": "^1.3.2",
+    "jquery": "^3.3.1",
+    "sass-lint": "1.12.1"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-natsu/webPage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/O-natsu/webPage/issues"
+  },
+  "homepage": "https://github.com/O-natsu/webPage#readme"
+}
